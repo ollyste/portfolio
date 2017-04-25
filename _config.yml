@@ -24,9 +24,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  primary: 4ECDC4 #80B3FF
+  primary-rgb: "78,205,196" #"128,179,255"
+  secondary: 556270 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
@@ -48,10 +48,10 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: oliva [dot] stefano [at] gmail [dot] com
-  - line: 0768686447
+  - line: +46 768686447
 
 # Credits content
-credits: 'This is created with <a href="http://startbootstrap.com">Bootstrap</a>.'
+credits: 'This website is created with <a href="http://startbootstrap.com">Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
